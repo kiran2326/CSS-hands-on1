@@ -1,0 +1,36 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+    font-style: italic;
+}
+.ls{
+    color:indianred;
+    line-height: 50px;
+}
+.sl{
+    text-decoration: line-through;
+}
+.hy{
+    background-color: yellow;
+}
+.ul{
+    text-decoration: underline;
+    font-style: italic;
+}
+.un{
+    color: indianred;
+    letter-spacing: 4px;  
+}
+.hl{
+    background-color: yellow;
+}
+.class{
+    color: indianred;
+}
+a:link{
+    color:indianred;
+    background-color: yellow;
+    font-style: italic;
+}
